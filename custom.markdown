@@ -3,5 +3,4 @@ layout: page
 title: New
 permalink: /new/
 ---
-
-<h2>Hell you!</h2>
+<h1>K</h1>
